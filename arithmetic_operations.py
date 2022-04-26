@@ -1,4 +1,5 @@
 
+# I added this comment to test git add, commit and push today: April 26, 2022
 def add(a,b):
 	"""
 	This fucntion adds two numbers and return the result
